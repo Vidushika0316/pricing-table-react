@@ -1,6 +1,6 @@
-import "./App.css";
+import './App.css';
 
-import { BiCheckboxSquare } from "react-icons/bi";
+import { BiCheckboxSquare } from 'react-icons/bi';
 
 function App() {
   return (
@@ -15,26 +15,26 @@ function App() {
                 <br />
                 Features
               </li>
-              <li>Centralized Teams</li>
-              <li>Version History</li>
-              <li>Plugin Administrator</li>
-              <li>Facebook & Instagram Ads</li>
-              <li>Design System Analytics</li>
-              <li>Unlimited cloud storage</li>
+              <li>Create upto 30 sites</li>
+              <li>Create upto 20 sites</li>
+              <li>Contract with codegen</li>
+              <li>Daily notifications on review update</li>
+              <li>Notifications every 3 days </li>
+              <li>Notifications every 5 days</li>
             </ul>
           </div>
 
           <div className="column">
             <ul className="price">
               <li className="header">
-                Starter
+                Silver
                 <br />
                 <span className="dollar">0</span>
                 <p>per user per month</p>
                 <div className="button_cont" align="center">
-                  <a className="btn" target="_blank" rel="nofollow noopener">
-                    Go Starter
-                  </a>
+                  <href className="btn" target="_blank" rel="nofollow noopener">
+                    Go Silver
+                  </href>
                 </div>
               </li>
               <li>
@@ -61,14 +61,14 @@ function App() {
           <div className="column">
             <ul className="price">
               <li className="header">
-                Professional
+                Gold
                 <br />
                 <span className="dollar">25</span>
                 <p>per user per month</p>
                 <div className="button_cont" align="center">
-                  <a className="btn" target="_blank" rel="nofollow noopener">
-                    Go Professional
-                  </a>
+                  <href className="btn" target="_blank" rel="nofollow noopener">
+                    Go Gold
+                  </href>
                 </div>
               </li>
               <li>
@@ -95,14 +95,14 @@ function App() {
           <div className="column">
             <ul className="price">
               <li className="header">
-                Organization
+                Platinum
                 <br />
                 <span className="dollar">50</span>
                 <p>per user per month</p>
                 <div className="button_cont" align="center">
-                  <a className="btn" target="_blank" rel="nofollow noopener">
-                    Go Organization
-                  </a>
+                  <href className="btn" target="_blank" rel="nofollow noopener">
+                    Go Platinum
+                  </href>
                 </div>
               </li>
               <li>
